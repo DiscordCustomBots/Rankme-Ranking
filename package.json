@@ -1,0 +1,42 @@
+{
+  "_from": "tigersrankingservice",
+  "_id": "tigersrankingservice@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-XlMOY14nSNFhqCqocxW9RH7h9MqVc95ODhBbQ0zQ+tU0lWTzN/gzw+TUQhgaTCQU2PYFDjvLRNTlzuWAe//CUQ==",
+  "_location": "/tigersrankingservice",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tigersrankingservice",
+    "name": "tigersrankingservice",
+    "escapedName": "tigersrankingservice",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tigersrankingservice/-/tigersrankingservice-1.1.0.tgz",
+  "_shasum": "8d10f78b2bd75d9817120d7d6ed7b4ced42a52db",
+  "_spec": "tigersrankingservice",
+  "_where": "C:\\Users\\matth",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "noblox.js": "^4.2.3",
+    "request": "^2.88.0"
+  },
+  "deprecated": false,
+  "description": "Use Tiger Ranking service in your own bot!",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tigersrankingservice",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
